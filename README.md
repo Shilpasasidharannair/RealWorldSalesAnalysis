@@ -71,23 +71,18 @@ The dataset used in this project is real-world sales data containing the followi
 
 Throughout the analysis, visualizations are used to show:
 - Monthly sales trends.
+![monthly_sales](https://github.com/user-attachments/assets/d2793808-2e01-4280-aac2-e277549c10b2)
 
-![monthly_sales](https://github.com/user-attachments/assets/601eae0e-b285-4abb-b8d1-0202e835358d)
-![monthly_sales_treand](https://github.com/user-attachments/assets/c0c37fe3-0fa1-4e59-ad65-1ad5ce9cb1ce)
+![monthly_sales_treand](https://github.com/user-attachments/assets/9dceb19b-0d7a-474b-86c2-8448be29f29c)
+![productsales_averageprice](https://github.com/user-attachments/assets/77a8d4e2-027e-4bad-aba9-271c29b81502)
 
 
 - The cities with the highest sales.
-![quantities_by_cities](https://github.com/user-attachments/assets/1edb7c5f-8934-42d5-9b36-75952f29e4c7)
 
 
 - The optimal times for advertising based on customer purchasing behavior.
 
-
-
-![hours_purchase](https://github.com/user-attachments/assets/670a873a-d44a-4e55-979b-c0045170238e)
-
-![productsales_averageprice](https://github.com/user-attachments/assets/cb1df31d-3d7b-469d-8ced-affc569eed1b)
-
+![hours_purchase](https://github.com/user-attachments/assets/bf0e6eaf-6fc7-4b9c-9c4e-cc514409dd5d)
 
 
 
