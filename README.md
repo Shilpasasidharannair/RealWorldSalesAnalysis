@@ -60,7 +60,7 @@ The dataset used in this project is real-world sales data containing the followi
 
 - **Python**: The primary programming language for data analysis.
 - **Pandas**: Data manipulation and analysis library.
-- **Matplotlib & Seaborn**: Visualization libraries for generating charts and graphs.
+- **Matplotlib**: Visualization libraries for generating charts and graphs.
 - **NumPy**: For numerical operations and handling missing data.
 - **Counter**: For counting product combinations.
 - **Regex**: For data extraction and cleaning.
