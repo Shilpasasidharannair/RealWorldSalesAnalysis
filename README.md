@@ -1,4 +1,4 @@
-# Real World Data science Tasks
+# Solving real-world data science tasks with Python -Pandas.
 
 This repository contains an analysis of real-world sales data aimed at solving business problems. The dataset includes various sales and product details, and the analysis focuses on identifying key trends, insights, and actionable recommendations for maximizing sales and optimizing marketing strategies.
 
