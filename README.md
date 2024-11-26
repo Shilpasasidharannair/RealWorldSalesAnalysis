@@ -4,7 +4,7 @@ This repository contains an analysis of real-world sales data aimed at solving b
 
 ## Project Overview
 
-In this project, we use sales data to address common business questions and generate meaningful insights. The goal is to understand sales trends, customer behavior, and product performance. This can help businesses make data-driven decisions to boost sales and improve customer engagement.
+This project uses sales data to address common business questions and generate meaningful insights. The goal is understanding sales trends, customer behavior, and product performance. This can help businesses make data-driven decisions to boost sales and improve customer engagement.
 
 ## Data Cleaning
 
